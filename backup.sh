@@ -20,8 +20,8 @@ sudo rsync \
 	--archive \
 	--verbose \
 	--backup \
-	--backup-dir=../incremental_backups/${date} \
+	--backup-dir=$dest_dir/incremental_backups/${date} \
 	--delete \
-	$1/* \
-	$2/current/ \
+	$source_dir/ \
+	$dest_dir/current/ \
 	&>> $2/logs/${date}.log

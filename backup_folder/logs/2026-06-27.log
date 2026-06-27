@@ -13,3 +13,8 @@ test.txt
 
 sent 229 bytes  received 35 bytes  528.00 bytes/sec
 total size is 610,278  speedup is 2,311.66
+sending incremental file list
+./
+
+sent 191 bytes  received 19 bytes  420.00 bytes/sec
+total size is 610,278  speedup is 2,906.09
