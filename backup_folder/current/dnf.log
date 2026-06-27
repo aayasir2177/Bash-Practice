@@ -1,0 +1,13 @@
+2026-04-28T17:27:26+0500 INFO --- logging initialized ---
+2026-04-28T17:27:26+0500 DDEBUG timer: config: 4 ms
+2026-04-28T17:27:26+0500 DEBUG Loaded plugins: builddep, changelog, config-manager, copr, debuginfo-install, download, generate_completion_cache, groups-manager, needs-restarting, notify-packagekit, playground, repoclosure, repodiff, repograph, repomanage, reposync, system-upgrade
+2026-04-28T17:27:26+0500 DEBUG DNF version: 4.24.0
+2026-04-28T17:27:26+0500 DDEBUG Command: dnf-3 system-upgrade upgrade 
+2026-04-28T17:27:26+0500 DDEBUG Installroot: /
+2026-04-28T17:27:26+0500 DDEBUG Releasever: 43
+2026-04-28T17:27:26+0500 DEBUG cachedir: /var/cache/dnf
+2026-04-28T17:27:26+0500 DDEBUG Base command: system-upgrade
+2026-04-28T17:27:26+0500 DDEBUG Extra commands: ['system-upgrade', 'upgrade']
+2026-04-28T17:27:26+0500 INFO another upgrade tool is running. exiting quietly.
+2026-04-28T17:27:26+0500 DDEBUG Cleaning up.
+2026-04-28T17:27:26+0500 DDEBUG Plugins were unloaded.

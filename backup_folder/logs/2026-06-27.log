@@ -1,0 +1,15 @@
+sending incremental file list
+dnf.librepo.log
+dnf.log
+dnf.rpm.log
+dnf5.log
+fsck_hfs.log
+test.txt
+
+sent 610,834 bytes  received 130 bytes  1,221,928.00 bytes/sec
+total size is 610,272  speedup is 1.00
+sending incremental file list
+test.txt
+
+sent 229 bytes  received 35 bytes  528.00 bytes/sec
+total size is 610,278  speedup is 2,311.66

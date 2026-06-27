@@ -1,0 +1,147 @@
+
+UNKNOWN-DEV: fsck_hfs run at Sat Mar  7 05:20:47 2026
+(null): fsck.hfsplus: missing special-device
+(null): usage: fsck.hfsplus [-b [size] B [path] c [size] Edfglx m [mode] npqruy] special-device
+(null):   b size = size of physical blocks (in bytes) for -B option
+(null):   B path = file containing physical block numbers to map to paths
+(null):   c size = cache size (ex. 512m, 1g)
+(null):   E = exit on first major error
+(null):   d = output debugging info
+(null):   f = force fsck even if clean (preen only) 
+(null):   g = GUI output mode
+(null):   x = XML output mode
+(null):   l = live fsck (lock down and test-only)
+(null):   m arg = octal mode used when creating lost+found directory 
+(null):   n = assume a no response 
+(null):   p = just fix normal inconsistencies 
+(null):   q = quick check returns clean, dirty, or failure 
+(null):   r = rebuild catalog btree 
+(null):   u = usage 
+(null):   v = version
+(null):   y = assume a yes response 
+
+UNKNOWN-DEV: fsck_hfs run at Sat Mar  7 05:26:55 2026
+(null): fsck.hfsplus: missing special-device
+(null): usage: fsck.hfsplus [-b [size] B [path] c [size] Edfglx m [mode] npqruy] special-device
+(null):   b size = size of physical blocks (in bytes) for -B option
+(null):   B path = file containing physical block numbers to map to paths
+(null):   c size = cache size (ex. 512m, 1g)
+(null):   E = exit on first major error
+(null):   d = output debugging info
+(null):   f = force fsck even if clean (preen only) 
+(null):   g = GUI output mode
+(null):   x = XML output mode
+(null):   l = live fsck (lock down and test-only)
+(null):   m arg = octal mode used when creating lost+found directory 
+(null):   n = assume a no response 
+(null):   p = just fix normal inconsistencies 
+(null):   q = quick check returns clean, dirty, or failure 
+(null):   r = rebuild catalog btree 
+(null):   u = usage 
+(null):   v = version
+(null):   y = assume a yes response 
+
+UNKNOWN-DEV: fsck_hfs run at Tue Mar 10 02:03:16 2026
+(null): fsck.hfsplus: missing special-device
+(null): usage: fsck.hfsplus [-b [size] B [path] c [size] Edfglx m [mode] npqruy] special-device
+(null):   b size = size of physical blocks (in bytes) for -B option
+(null):   B path = file containing physical block numbers to map to paths
+(null):   c size = cache size (ex. 512m, 1g)
+(null):   E = exit on first major error
+(null):   d = output debugging info
+(null):   f = force fsck even if clean (preen only) 
+(null):   g = GUI output mode
+(null):   x = XML output mode
+(null):   l = live fsck (lock down and test-only)
+(null):   m arg = octal mode used when creating lost+found directory 
+(null):   n = assume a no response 
+(null):   p = just fix normal inconsistencies 
+(null):   q = quick check returns clean, dirty, or failure 
+(null):   r = rebuild catalog btree 
+(null):   u = usage 
+(null):   v = version
+(null):   y = assume a yes response 
+
+UNKNOWN-DEV: fsck_hfs run at Tue Mar 10 02:37:49 2026
+(null): fsck.hfsplus: missing special-device
+(null): usage: fsck.hfsplus [-b [size] B [path] c [size] Edfglx m [mode] npqruy] special-device
+(null):   b size = size of physical blocks (in bytes) for -B option
+(null):   B path = file containing physical block numbers to map to paths
+(null):   c size = cache size (ex. 512m, 1g)
+(null):   E = exit on first major error
+(null):   d = output debugging info
+(null):   f = force fsck even if clean (preen only) 
+(null):   g = GUI output mode
+(null):   x = XML output mode
+(null):   l = live fsck (lock down and test-only)
+(null):   m arg = octal mode used when creating lost+found directory 
+(null):   n = assume a no response 
+(null):   p = just fix normal inconsistencies 
+(null):   q = quick check returns clean, dirty, or failure 
+(null):   r = rebuild catalog btree 
+(null):   u = usage 
+(null):   v = version
+(null):   y = assume a yes response 
+
+UNKNOWN-DEV: fsck_hfs run at Thu Apr  2 16:07:28 2026
+(null): fsck.hfsplus: missing special-device
+(null): usage: fsck.hfsplus [-b [size] B [path] c [size] Edfglx m [mode] npqruy] special-device
+(null):   b size = size of physical blocks (in bytes) for -B option
+(null):   B path = file containing physical block numbers to map to paths
+(null):   c size = cache size (ex. 512m, 1g)
+(null):   E = exit on first major error
+(null):   d = output debugging info
+(null):   f = force fsck even if clean (preen only) 
+(null):   g = GUI output mode
+(null):   x = XML output mode
+(null):   l = live fsck (lock down and test-only)
+(null):   m arg = octal mode used when creating lost+found directory 
+(null):   n = assume a no response 
+(null):   p = just fix normal inconsistencies 
+(null):   q = quick check returns clean, dirty, or failure 
+(null):   r = rebuild catalog btree 
+(null):   u = usage 
+(null):   v = version
+(null):   y = assume a yes response 
+
+UNKNOWN-DEV: fsck_hfs run at Thu Apr  2 16:27:47 2026
+(null): fsck.hfsplus: missing special-device
+(null): usage: fsck.hfsplus [-b [size] B [path] c [size] Edfglx m [mode] npqruy] special-device
+(null):   b size = size of physical blocks (in bytes) for -B option
+(null):   B path = file containing physical block numbers to map to paths
+(null):   c size = cache size (ex. 512m, 1g)
+(null):   E = exit on first major error
+(null):   d = output debugging info
+(null):   f = force fsck even if clean (preen only) 
+(null):   g = GUI output mode
+(null):   x = XML output mode
+(null):   l = live fsck (lock down and test-only)
+(null):   m arg = octal mode used when creating lost+found directory 
+(null):   n = assume a no response 
+(null):   p = just fix normal inconsistencies 
+(null):   q = quick check returns clean, dirty, or failure 
+(null):   r = rebuild catalog btree 
+(null):   u = usage 
+(null):   v = version
+(null):   y = assume a yes response 
+
+UNKNOWN-DEV: fsck_hfs run at Tue May 12 15:00:01 2026
+(null): fsck.hfsplus: missing special-device
+(null): usage: fsck.hfsplus [-b [size] B [path] c [size] Edfglx m [mode] npqruy] special-device
+(null):   b size = size of physical blocks (in bytes) for -B option
+(null):   B path = file containing physical block numbers to map to paths
+(null):   c size = cache size (ex. 512m, 1g)
+(null):   E = exit on first major error
+(null):   d = output debugging info
+(null):   f = force fsck even if clean (preen only) 
+(null):   g = GUI output mode
+(null):   x = XML output mode
+(null):   l = live fsck (lock down and test-only)
+(null):   m arg = octal mode used when creating lost+found directory 
+(null):   n = assume a no response 
+(null):   p = just fix normal inconsistencies 
+(null):   q = quick check returns clean, dirty, or failure 
+(null):   r = rebuild catalog btree 
+(null):   u = usage 
+(null):   v = version
+(null):   y = assume a yes response 

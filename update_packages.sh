@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #vars
-logs_file=./logs.log
+logs_file=./update_logs.log
 
 #funcs
 check_exit_status(){
@@ -18,5 +18,3 @@ then
 	echo "$(date)" >> "$logs_file"
 	echo "--------------------------" >> "$logs_file"
 fi
-
-
